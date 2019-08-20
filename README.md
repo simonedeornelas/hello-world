@@ -1,2 +1,6 @@
 # hello-world
-Just to learn more
+
+
+Hi People,
+
+Simone here, I like COBOL, but lets get it.
